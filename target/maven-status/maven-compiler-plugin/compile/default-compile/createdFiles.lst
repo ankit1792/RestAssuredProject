@@ -1,0 +1,3 @@
+com\employee\EmployeeSerializationUsingObjectMapper.class
+com\employee\EmployeeDeserializationUsingObjectMapper.class
+com\employee\Employee_POJO.class
